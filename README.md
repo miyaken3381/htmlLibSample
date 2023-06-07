@@ -1,1 +1,1 @@
-# htmlLibSample
+# Web外部ライブラリのサンプル集
